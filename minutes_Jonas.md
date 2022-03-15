@@ -9,7 +9,7 @@
 
 ## Jonas Onboarding
 - Organisational Matters:
-	- Github 	
+	- Gitlab	
 	- working hours, weekly meetings (next week in person?)
 	- communication via Element
 - context: 
