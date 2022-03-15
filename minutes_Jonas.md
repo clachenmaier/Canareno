@@ -17,9 +17,9 @@
 	- idea behind Canaréno:
 		- OZG - Online-Zugangsgesetz
 		- FIM - Annotate legal texts using the FIM-Method
-
-		![](FIM_Bausteine.jpg)
- 
+ 		![FIM_Bausteine](FIM_Bausteine.jpg)
+		![Datenfelder](Datenfelder.jpg)
+		![Normenanalyse](Normenanalyse.jpg)
 	- problem: no annotated texts available
 	- possible solutions: annotate own data, use other learning methods
 - currently:
