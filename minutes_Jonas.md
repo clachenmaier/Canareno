@@ -10,7 +10,7 @@
 ## Jonas Onboarding
 - Organisational Matters:
 	- Gitlab	
-	- working hours, weekly meetings (next week in person?)
+	- working hours (8h/Woche), weekly meetings (next week: 22.03. 13:00)
 	- communication via Element
 - context: 
 	- working group (Bielefeld: 2 Hiwis and 1 WiMi; Jena: 1 WIMI, 1 Hiwi, 1 Bachelorthesis; Simplex: 2 WIMIS)
